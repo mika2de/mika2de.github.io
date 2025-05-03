@@ -9,7 +9,8 @@ IT software engineer and contributor to the internet of things.
 
 - Public 3D printable designs on **[thingiverse](https://www.thingiverse.com/mika2de/designs)** 
   - My masterpiece, a peristalitik pump I designed using an open source CAD programm. The pump is intended to replace the preasure system I develop in 2014 for my cocktail machine. For more details visit my old cocktailnator blog entries.
-  - The mechanics for vacuum cleaner garage
+  - The mechanics for vacuum cleaner garage.
+  - But most of the things I design are just for our household and most of it are so highly individualized that sharing them is not worth it. A nice exception, however, is the windshield mount for my Load 60.
 
 - My tiny **[youtube channel](https://www.youtube.com/@mkai2305)** showing some of the above projects. 
 
@@ -19,7 +20,7 @@ IT software engineer and contributor to the internet of things.
 
 - My **[Stackoverflow](https://stackoverflow.com/users/4482535/mika)** profile.
 
-## Work
+## Business
 - Backend engineering with cutting edge technologies ;-) 
 - **Article** on **[Google Cloud blog](https://cloud.google.com/blog/products/databases/deutsche-bank-scales-online-banking-platform-with-spanner?hl=en)** about how I made an open source tool fit to high availability requirements.
 - [cloudskillsboost.google](https://www.cloudskillsboost.google/public_profiles/d7cce189-52a1-4f82-927c-f5b7f484f5fa) profile
