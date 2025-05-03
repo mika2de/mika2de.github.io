@@ -5,7 +5,7 @@ IT software engineer and contributor to the internet of things.
 ## Leisure projects
 - **[Automated robot vacuum cleaner garage](https://hackaday.io/project/178993-space-saving-robot-vacuum-cleaner-garage)**, an ESP8266 powered kitchen skirting board that hides the robot vacuum cleaner. Project log on hackaday.io, source code in [ecovacs-deebot-garage](https://github.com/mika2de/ecovacs-deebot-garage). You can't buy but build it. 
 
-- **[Automated cocktail machine](https://www.youtube.com/watch?v=FlW5OtQioZs)**, an Ardunio + Raspberry PI powered cocktail machine. Backend build with Spring Boot, frontend with AngularJs.
+- **[Automated cocktail machine](https://cocktailnator.de)**, an Ardunio + Raspberry PI powered cocktail machine. Backend build with Spring Boot, frontend with AngularJs.
 
 - Public 3D printable designs on **[thingiverse](https://www.thingiverse.com/mika2de/designs)** 
   - My masterpiece, a peristalitik pump I designed using an open source CAD programm. The pump is intended to replace the preasure system I develop in 2014 for my cocktail machine. For more details visit my old cocktailnator blog entries.
